@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BBC Reader</string>
+    <string name="nav_open">Open Navigation</string>
+    <string name="nav_close">Close Navigation</string>
+    <string name="Help">Help</string>
+    <string name="Favourites">Favourites</string>
+    <string name="Home">Home</string>
+    <string name="Settings">Settings</string>
+    <string name="DeleteallFavourites">Delete all Favourites</string>
+    <string name="ChangeLanguage">Change Language</string>
+    <string name="loading">Please wait while your articles are loading.</string>
+    <string name="Addfav">Add to Favourites</string>
+    <string name="Search">Search</string>
+    <string name="AddedtoFavourites">Added to Favourites</string>
+    <string name="RemovedfromFavourites">Removed from Favourites</string>
+    <string name="RemovefromFavourites">Remove from Favourites</string>
+    <string name="Therearenoarticlesthatmatchyoursearch">There are no articles that match your search.</string>
+    <string name="pickNum">Pick your text size</string>
+    <string name="MainActivityHelp">To use this page, scroll through the articles provided. You can click on any article to see more details. You can also search through them using keywords using the search bar.</string>
+    <string name="SettingsHelp">This page gives you the options to either delete all your articles marked as favourites or to select the size of the text on the article information page. To select the size of the text, just use the scroll bar. The left side is lowest and the right side is highest.</string>
+    <string name="ArticleInfoHelp">This page is for viewing more information about a headline. You can also save it to your favourites page for later viewing using the button or delete it from your favourites.</string>
+    <string name="FavHelp">To use this page, you can scroll through your favourited articles. You can also click on them to see more information about them.</string>
+    <string name="Close">Close</string>
+    <string name="MainActivity">Home</string>
+    <string name="ArticleInfo">Article Info</string>
+</resources>

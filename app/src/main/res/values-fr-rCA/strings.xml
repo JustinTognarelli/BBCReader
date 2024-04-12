@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_open">Ouvrir la navigation</string>
+    <string name="nav_close">Fermer la navigation</string>
+    <string name="Help">Aide</string>
+    <string name="Favourites">Favoris</string>
+    <string name="Home">Accueil</string>
+    <string name="Settings">Paramètres</string>
+    <string name="DeleteallFavourites">Supprimer tous les favoris</string>
+    <string name="ChangeLanguage">Changer de langue</string>
+    <string name="loading">Veuillez patienter pendant le chargement de vos articles.</string>
+    <string name="Addfav">Ajouter aux favoris</string>
+    <string name="Search">Rechercher</string>
+    <string name="AddedtoFavourites">Ajouté aux favoris</string>
+    <string name="RemovedfromFavourites">Retiré des favoris</string>
+    <string name="RemovefromFavourites">Retirer des favoris</string>
+    <string name="Therearenoarticlesthatmatchyoursearch">Aucun article ne correspond à votre recherche.</string>
+    <string name="pickNum">Choisissez votre taille de texte</string>
+    <string name="MainActivityHelp">Pour utiliser cette page, faites défiler les articles fournis. Vous pouvez cliquer sur n\'importe quel article pour voir plus de détails. Vous pouvez également les rechercher en utilisant des mots-clés via la barre de recherche.</string>
+    <string name="SettingsHelp">Cette page vous permet de supprimer tous les articles marqués comme favoris ou de sélectionner la taille du texte sur la page d\'information de l\'article. Pour sélectionner la taille du texte, utilisez simplement la barre de défilement. Le côté gauche est le plus bas et le côté droit est le plus élevé.</string>
+    <string name="ArticleInfoHelp">Cette page est pour visualiser plus d\'informations sur un titre. Vous pouvez également l\'enregistrer dans vos favoris pour une visualisation ultérieure en utilisant le bouton ou le supprimer de vos favoris.</string>
+    <string name="FavHelp">Pour utiliser cette page, vous pouvez faire défiler vos articles favoris. Vous pouvez également cliquer dessus pour voir plus d\'informations à leur sujet.</string>
+    <string name="Close">Fermer</string>
+    <string name="ArticleInfo">Info de l\'article</string>
+</resources>
